@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/natedenys/precache-manifest.d64452462b8a214927a5d2a21eddb723.js"
+  "/vue_cv_j21/precache-manifest.3cd7eb48c89d5d13a03e81e65a85c357.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "natedenys"});
